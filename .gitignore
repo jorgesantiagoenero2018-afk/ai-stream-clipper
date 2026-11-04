@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# App data
+*.db
+*.db-wal
+*.db-shm
+~/.ai-stream-clipper/
+*.wav
+*.srt
+
+# OS
+Thumbs.db
+.DS_Store
